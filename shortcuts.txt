@@ -2,9 +2,12 @@
 <prefix>        ->  Ctrl + A
 <M>             ->  Alt
 
+# Closing
+C-D             -> Close a pane.
+
 # Splitting
-<M> \      ->  Split pane vertically
-<M> -      ->  Split pane horizontally
+<M> \           ->  Split pane vertically
+<M> -           ->  Split pane horizontally
 
 # Pane movement
 <M> ArrowLeft   ->  Move to left pane.
